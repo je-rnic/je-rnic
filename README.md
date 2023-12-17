@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am pursuing a bachelor's degree in Information Systems at Singapore Management University, with a dual-track major specialising in 'Digitalisation & Cloud Solutions' and 'Smart-City Management & Technology'. I mainly pursue Front-End and UI/UX development, but I am looking to expand my portfolio towards Web Development as a whole
+I'm a Sophomore student pursuing my bachelor's degree in Information Systems at Singapore Management University, with a dual-track major specialising in 'Digitalisation & Cloud Solutions' and 'Smart-City Management & Technology' 🏫🏙️ I mainly pursue Front-End and UI/UX development, but I am looking to expand my portfolio towards Web Development as a whole 😄
 
 - 📫 Feel free to reach out to me at: jernic.yeo.2022@smu.edu.sg
-- ⚡ Fun fact: I'm a freelance creative with a passion for the arts, including dance, music and pencil-sketching
+- ⚡ Fun fact: I'm a freelance creative with a passion for the arts, including dance, music and pencil-sketching 🎶
+
+Check out my projects below 👇🏽, or alternatively visit my website at: https://je-rnic.github.io/ (WIP)
