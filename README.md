@@ -19,4 +19,4 @@ I'm a Sophomore student pursuing my bachelor's degree in Information Systems at 
 - 📫 Feel free to reach out to me at: jernic.yeo.2022@smu.edu.sg
 - ⚡ Fun fact: I'm a freelance creative with a passion for the arts, including dance, music and pencil-sketching 🎶
 
-Check out my projects below 👇🏽, or alternatively visit my website at: https://je-rnic.github.io/ (WIP)
+Check out my projects below 👇🏽
